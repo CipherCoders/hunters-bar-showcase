@@ -100,20 +100,55 @@ Cipher Coders worked across several areas of the project:
 
 ## Project Gallery
 
-### Gameplay
+### Lobby & Match Setup
 
-> Screenshots will be added here.
+<p align="center">
+  <img src="./assets/hunters-bar-lobby.png" alt="Hunter's Bar lobby" width="900">
+</p>
 
-### Multiplayer
-
-> Multiplayer screenshots will be added here.
-
-### Mobile UI
-
-> UI screenshots will be added here.
+The multiplayer lobby allows players to join, prepare, select their character setup and begin the match flow together.
 
 ---
 
+### Core Gameplay
+
+<p align="center">
+  <img src="./assets/hunters-bar-gameplay-table.png" alt="Hunter's Bar gameplay table" width="900">
+</p>
+
+Hunter's Bar is built around a shared table experience where players manage cards, roles, bluffing and risk-based decisions in real time.
+
+---
+
+### Rules & Game Flow
+
+<p align="center">
+  <img src="./assets/hunters-bar-how-to-play.png" alt="Hunter's Bar how to play screen" width="900">
+</p>
+
+The game includes clear gameplay rules and round flow to support multiplayer decision-making, bluffing mechanics and survival progression.
+
+---
+
+### Survival / Shoot Moment
+
+<p align="center">
+  <img src="./assets/hunters-bar-shoot-moment.png" alt="Hunter's Bar shoot moment" width="900">
+</p>
+
+A signature part of the experience is the survival tension created by the shooting / elimination phase, which increases match intensity and player pressure.
+
+---
+
+### In-Match Action
+
+<p align="center">
+  <img src="./assets/hunters-bar-round-action.png" alt="Hunter's Bar round action" width="900">
+</p>
+
+The game combines card play, hidden roles, player observation and strategic decisions to create a competitive multiplayer experience on mobile.
+
+---
 ## Technology
 
 `Unity` • `C#` • `Multiplayer` • `iOS` • `Android` • `Mobile UI`
