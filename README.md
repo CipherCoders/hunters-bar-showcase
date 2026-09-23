@@ -1,5 +1,12 @@
 <div align="center">
+  
+<p align="center">
+  <img src="./assets/hunters-bar-lobby.png"
+       alt="Hunter's Bar Multiplayer Mobile Game"
+       width="100%">
+</p>
 
+<br>
 # Hunter's Bar
 
 ### Multiplayer Mobile Card Game
